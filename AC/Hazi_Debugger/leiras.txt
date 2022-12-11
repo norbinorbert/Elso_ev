@@ -1,0 +1,1 @@
+A 3-as labor B feladataban a szabaly szerint az eredmeny elso 2 karaktere 1-es kellett legyen. Az eredmenyt az EDX regiszterben epitettem fel, es az "AND edx, C0000000" utasitas utan eszrevettem, hogy 0-as marad az elso 2 karakter, nem valtozik. A hiba orvosolasa egyszeru volt, osszekevertem az AND es OR parancsokat es lecsereltem az AND-et OR-ra.
