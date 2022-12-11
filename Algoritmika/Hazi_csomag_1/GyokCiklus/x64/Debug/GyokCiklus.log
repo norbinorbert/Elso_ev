@@ -1,0 +1,6 @@
+﻿  GyokCiklus.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\GyokCiklus\GyokCiklus.cpp(24,20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\GyokCiklus\GyokCiklus.cpp(34,14): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\GyokCiklus\GyokCiklus.cpp(46,14): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\GyokCiklus\GyokCiklus.cpp(56,18): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  GyokCiklus.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\GyokCiklus\x64\Debug\GyokCiklus.exe
