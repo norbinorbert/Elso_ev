@@ -1,0 +1,14 @@
+﻿  RadixSort.cpp
+C:\Users\norbi\Desktop\Algoritmika\Vizsga\RadixSort\RadixSort.cpp(18,17): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+C:\Users\norbi\Desktop\Algoritmika\Vizsga\RadixSort\RadixSort.cpp(21,31): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+C:\Users\norbi\Desktop\Algoritmika\Vizsga\RadixSort\RadixSort.cpp(25,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Vizsga\RadixSort\RadixSort.cpp(52,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RadixSort.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Vizsga\RadixSort\x64\Debug\RadixSort.exe
