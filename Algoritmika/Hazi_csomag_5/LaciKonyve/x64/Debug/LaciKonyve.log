@@ -1,0 +1,4 @@
+﻿  LaciKonyve.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_5\LaciKonyve\LaciKonyve.cpp(39,36): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_5\LaciKonyve\LaciKonyve.cpp(36): warning C4715: 'nev_index': not all control paths return a value
+  LaciKonyve.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_5\LaciKonyve\x64\Debug\LaciKonyve.exe
