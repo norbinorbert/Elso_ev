@@ -1,0 +1,35 @@
+﻿  TorzstenyezokRek.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\limits.h(70,5): warning C4668: '__STDC_WANT_SECURE_LIB__' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(154,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(164,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\atomic(93,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\atomic(300,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\atomic(316,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xthreads.h(44,30): warning C5264: '_Mtx_internal_imp_alignment': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xthreads.h(45,30): warning C5264: '_Cnd_internal_imp_size': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xthreads.h(43,30): warning C5264: '_Mtx_internal_imp_size': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xthreads.h(46,30): warning C5264: '_Cnd_internal_imp_alignment': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(127,39): warning C5264: 'std::allocator_arg': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\typeinfo(28,27): warning C5264: 'std::_Small_object_num_ptrs': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<const char*>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<short>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<int>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<unsigned int>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<std::error_condition>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<std::error_code>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<std::system_error>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xtr1common(179,28): warning C5264: 'std::is_integral_v<double>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xtr1common(179,28): warning C5264: 'std::is_integral_v<unsigned int>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xtr1common(196,28): warning C5264: 'std::is_arithmetic_v<double>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(667,28): warning C5264: 'std::is_move_constructible_v<std::default_delete<std::_Facet_base>>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(114,45): warning C5264: 'std::piecewise_construct': 'const' variable is not used
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\TorzstenyezokRek\TorzstenyezokRek.cpp(42): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\TorzstenyezokRek\TorzstenyezokRek.cpp(41): message : index '' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\TorzstenyezokRek\TorzstenyezokRek.cpp(42): message : feeds call on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\TorzstenyezokRek\TorzstenyezokRek.cpp(33): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\TorzstenyezokRek\TorzstenyezokRek.cpp(32): message : index '' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\TorzstenyezokRek\TorzstenyezokRek.cpp(33): message : feeds call on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\TorzstenyezokRek\TorzstenyezokRek.cpp(24): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\TorzstenyezokRek\TorzstenyezokRek.cpp(23): message : index '' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\TorzstenyezokRek\TorzstenyezokRek.cpp(24): message : feeds call on this line
+  TorzstenyezokRek.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\TorzstenyezokRek\x64\Debug\TorzstenyezokRek.exe
