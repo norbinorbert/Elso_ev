@@ -1,0 +1,7 @@
+﻿  Eko.cpp
+C:\Users\norbi\Desktop\Verseny_feladatok\Eko\Eko.cpp(29,35): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Verseny_feladatok\Eko\Eko.cpp(30,35): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Verseny_feladatok\Eko\Eko.cpp(40,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Verseny_feladatok\Eko\Eko.cpp(45,16): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Verseny_feladatok\Eko\Eko.cpp(49,16): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Eko.vcxproj -> C:\Users\norbi\Desktop\Verseny_feladatok\Eko\x64\Debug\Eko.exe
