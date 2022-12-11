@@ -1,0 +1,24 @@
+﻿  HatvanasSzamrendszer_v2.0.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\limits.h(70,5): warning C4668: '__STDC_WANT_SECURE_LIB__' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xmemory(156,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xmemory(166,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\atomic(206,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\atomic(221,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\atomic(237,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(21,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(21,2): warning C4365: 'initializing': conversion from 'unsigned __int64' to 'int', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(23,6): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(25,20): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(26,25): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(31,24): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(33,39): warning C4242: 'initializing': conversion from 'int' to 'short', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(26): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(21): message : index 'i' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(26): message : feeds call on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(25): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(21): message : index 'i' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(25): message : feeds call on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(23): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(21): message : index 'i' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\HatvanasSzamrendszer_v2.0.cpp(23): message : feeds call on this line
+  HatvanasSzamrendszer_v2.0.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_1\HatvanasSzamrendszer_v2.0\x64\Debug\HatvanasSzamrendszer_v2.0.exe
