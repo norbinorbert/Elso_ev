@@ -1,0 +1,7 @@
+﻿  PolinomRek.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\PolinomRek\PolinomRek.cpp(24,27): warning C4244: 'return': conversion from '_Ty' to 'double', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  PolinomRek.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\PolinomRek\x64\Debug\PolinomRek.exe

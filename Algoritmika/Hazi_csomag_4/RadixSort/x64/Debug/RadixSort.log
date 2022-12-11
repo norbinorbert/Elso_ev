@@ -1,0 +1,4 @@
+﻿  RadixSort.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\RadixSort\RadixSort.cpp(32,19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\RadixSort\RadixSort.cpp(56,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RadixSort.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\RadixSort\x64\Debug\RadixSort.exe
