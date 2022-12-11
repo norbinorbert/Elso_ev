@@ -1,0 +1,69 @@
+﻿  SzamjegyStatisztika.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\limits.h(70,5): warning C4668: '__STDC_WANT_SECURE_LIB__' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(154,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(164,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\atomic(93,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\atomic(300,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\atomic(316,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(22,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(22,31): warning C4365: 'initializing': conversion from 'unsigned __int64' to 'int', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(29,20): warning C4388: '<': signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(30,30): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(33,9): warning C4388: '==': signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(40,23): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(44,30): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(55,19): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(61,18): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(69,17): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(72,20): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(74,29): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(77,18): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(99,33): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(108,16): warning C4365: 'argument': conversion from 'short' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(108,34): warning C4365: 'argument': conversion from 'short' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(108,52): warning C4365: 'argument': conversion from 'short' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(132,24): warning C4365: 'argument': conversion from 'short' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xthreads.h(44,30): warning C5264: '_Mtx_internal_imp_alignment': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xthreads.h(45,30): warning C5264: '_Cnd_internal_imp_size': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xthreads.h(43,30): warning C5264: '_Mtx_internal_imp_size': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xthreads.h(46,30): warning C5264: '_Cnd_internal_imp_alignment': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(127,39): warning C5264: 'std::allocator_arg': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\typeinfo(28,27): warning C5264: 'std::_Small_object_num_ptrs': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<const char*>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<int>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<unsigned __int64>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<std::error_condition>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<std::error_code>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<std::system_error>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xtr1common(179,28): warning C5264: 'std::is_integral_v<double>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xutility(812,28): warning C5264: 'std::?$_Is_iterator_v@$RBAAB@$$Yvoid_t@std@@$std:?$iterator_traits@$RBAAB@:iterator_category:<wchar_t*,void>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xutility(812,28): warning C5264: 'std::?$_Is_iterator_v@$RBAAB@$$Yvoid_t@std@@$std:?$iterator_traits@$RBAAB@:iterator_category:<char*,void>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xtr1common(196,28): warning C5264: 'std::is_arithmetic_v<double>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(667,28): warning C5264: 'std::is_move_constructible_v<std::default_delete<std::_Facet_base>>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(114,45): warning C5264: 'std::piecewise_construct': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\limits(1197,16): warning C5264: 'std::_Is_standard_unsigned_integer<std::_Vbase>': 'const' variable is not used
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(132): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(131): message : index '' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(132): message : feeds call on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(69): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(68): message : index 'j' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(69): message : feeds call on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(61): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(60): message : index 'j' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(61): message : feeds call on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(55): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(54): message : index 'j' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(55): message : feeds call on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(35): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(29): message : index '' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(35): message : feeds call on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(33): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(29): message : index '' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(33): message : feeds call on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(99): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(98): message : index 'elso_masolat' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(99): message : feeds call on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(108): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(107): message : index '' range checked by comparison on this line
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\SzamjegyStatisztika.cpp(108): message : feeds call on this line
+  SzamjegyStatisztika.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_3\SzamjegyStatisztika\x64\Debug\SzamjegyStatisztika.exe
