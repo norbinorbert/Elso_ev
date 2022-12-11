@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BeszuroRendezes", "BeszuroRendezes.vcxproj", "{2E24EB1F-3FEE-4D79-973E-2184C11478FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E24EB1F-3FEE-4D79-973E-2184C11478FC}.Debug|x64.ActiveCfg = Debug|x64
+		{2E24EB1F-3FEE-4D79-973E-2184C11478FC}.Debug|x64.Build.0 = Debug|x64
+		{2E24EB1F-3FEE-4D79-973E-2184C11478FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{2E24EB1F-3FEE-4D79-973E-2184C11478FC}.Debug|x86.Build.0 = Debug|Win32
+		{2E24EB1F-3FEE-4D79-973E-2184C11478FC}.Release|x64.ActiveCfg = Release|x64
+		{2E24EB1F-3FEE-4D79-973E-2184C11478FC}.Release|x64.Build.0 = Release|x64
+		{2E24EB1F-3FEE-4D79-973E-2184C11478FC}.Release|x86.ActiveCfg = Release|Win32
+		{2E24EB1F-3FEE-4D79-973E-2184C11478FC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D771ED4E-1DA1-44C1-8132-377B5E0A8F8E}
+	EndGlobalSection
+EndGlobal

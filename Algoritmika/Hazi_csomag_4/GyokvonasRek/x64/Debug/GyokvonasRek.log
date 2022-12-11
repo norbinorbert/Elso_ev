@@ -1,0 +1,4 @@
+﻿  GyokvonasRek.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\GyokvonasRek\GyokvonasRek.cpp(39,17): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\GyokvonasRek\GyokvonasRek.cpp(41,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GyokvonasRek.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_4\GyokvonasRek\x64\Debug\GyokvonasRek.exe
