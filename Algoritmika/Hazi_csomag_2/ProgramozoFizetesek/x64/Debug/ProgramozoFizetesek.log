@@ -1,0 +1,3 @@
+﻿  ProgramozoFizetesek.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_2\ProgramozoFizetesek\ProgramozoFizetesek.cpp(129,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ProgramozoFizetesek.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_2\ProgramozoFizetesek\x64\Debug\ProgramozoFizetesek.exe

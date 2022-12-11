@@ -1,0 +1,4 @@
+﻿  LegkisebbOszto.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_2\LegkisebbOszto\LegkisebbOszto.cpp(19,11): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_2\LegkisebbOszto\LegkisebbOszto.cpp(29,12): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+  LegkisebbOszto.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_2\LegkisebbOszto\x64\Debug\LegkisebbOszto.exe
