@@ -1,0 +1,4 @@
+﻿  Labor_TheGift.cpp
+C:\Users\norbi\Desktop\Algoritmika\Plusz Feladatok\Labor_TheGift\Labor_TheGift.cpp(25,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Plusz Feladatok\Labor_TheGift\Labor_TheGift.cpp(49,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Labor_TheGift.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Plusz Feladatok\Labor_TheGift\x64\Debug\Labor_TheGift.exe
