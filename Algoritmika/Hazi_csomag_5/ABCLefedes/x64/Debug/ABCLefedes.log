@@ -1,0 +1,11 @@
+﻿  ABCLefedes.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_5\ABCLefedes\ABCLefedes.cpp(26,37): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=short
+          ]
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_5\ABCLefedes\ABCLefedes.cpp(38,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_5\ABCLefedes\ABCLefedes.cpp(72,36): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_5\ABCLefedes\ABCLefedes.cpp(82,37): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_5\ABCLefedes\ABCLefedes.cpp(89,38): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  ABCLefedes.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_5\ABCLefedes\x64\Debug\ABCLefedes.exe
