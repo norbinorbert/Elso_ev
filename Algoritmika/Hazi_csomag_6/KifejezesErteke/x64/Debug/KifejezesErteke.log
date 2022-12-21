@@ -1,0 +1,4 @@
+﻿  KifejezesErteke.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_6\KifejezesErteke\KifejezesErteke.cpp(54,24): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_6\KifejezesErteke\KifejezesErteke.cpp(55,24): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  KifejezesErteke.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_6\KifejezesErteke\x64\Debug\KifejezesErteke.exe
