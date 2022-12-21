@@ -1,0 +1,12 @@
+﻿  BorAdasvetel.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_6\BorAdasvetel\BorAdasvetel.cpp(44,33): warning C4244: '+=': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_6\BorAdasvetel\BorAdasvetel.cpp(53,33): warning C4244: '+=': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  BorAdasvetel.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_6\BorAdasvetel\x64\Debug\BorAdasvetel.exe
