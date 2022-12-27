@@ -1,0 +1,3 @@
+﻿  BalraAt.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_6\BalraAt\BalraAt.cpp(27,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BalraAt.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_6\BalraAt\x64\Debug\BalraAt.exe

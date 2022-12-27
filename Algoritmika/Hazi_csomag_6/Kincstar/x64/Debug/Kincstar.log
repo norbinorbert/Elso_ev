@@ -1,0 +1,6 @@
+﻿  Kincstar.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_6\Kincstar\Kincstar.cpp(87,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_6\Kincstar\Kincstar.cpp(89,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_6\Kincstar\Kincstar.cpp(104,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_6\Kincstar\Kincstar.cpp(106,4): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Kincstar.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_6\Kincstar\x64\Debug\Kincstar.exe
