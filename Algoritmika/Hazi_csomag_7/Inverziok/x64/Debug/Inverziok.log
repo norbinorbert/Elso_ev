@@ -1,0 +1,3 @@
+﻿  Inverziok.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_7\Inverziok\Inverziok.cpp(63,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Inverziok.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_7\Inverziok\x64\Debug\Inverziok.exe

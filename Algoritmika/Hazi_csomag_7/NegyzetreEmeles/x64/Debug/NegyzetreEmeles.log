@@ -1,0 +1,6 @@
+﻿  NegyzetreEmeles.cpp
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_7\NegyzetreEmeles\NegyzetreEmeles.cpp(72,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_7\NegyzetreEmeles\NegyzetreEmeles.cpp(84,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_7\NegyzetreEmeles\NegyzetreEmeles.cpp(103,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_7\NegyzetreEmeles\NegyzetreEmeles.cpp(122,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  NegyzetreEmeles.vcxproj -> C:\Users\norbi\Desktop\Algoritmika\Hazi_csomag_7\NegyzetreEmeles\x64\Debug\NegyzetreEmeles.exe
