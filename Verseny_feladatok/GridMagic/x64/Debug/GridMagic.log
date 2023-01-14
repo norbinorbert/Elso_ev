@@ -1,0 +1,3 @@
+﻿  GridMagic.cpp
+C:\Users\norbi\Desktop\Verseny_feladatok\GridMagic\GridMagic.cpp(24,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  GridMagic.vcxproj -> C:\Users\norbi\Desktop\Verseny_feladatok\GridMagic\x64\Debug\GridMagic.exe
