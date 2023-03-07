@@ -1,0 +1,3 @@
+﻿  bnim2219_L1_1a.cpp
+C:\Users\norbi\Desktop\OOP\Labor1\bnim2219_L1_1a\bnim2219_L1_1a.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  bnim2219_L1_1a.vcxproj -> C:\Users\norbi\Desktop\OOP\Labor1\bnim2219_L1_1a\x64\Debug\bnim2219_L1_1a.exe
