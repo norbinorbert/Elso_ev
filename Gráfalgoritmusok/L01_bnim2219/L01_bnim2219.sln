@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L01_bnim2219", "L01_bnim2219.vcxproj", "{6F636880-5AD1-4DA0-AE3D-BD587BF234F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F636880-5AD1-4DA0-AE3D-BD587BF234F0}.Debug|x64.ActiveCfg = Debug|x64
+		{6F636880-5AD1-4DA0-AE3D-BD587BF234F0}.Debug|x64.Build.0 = Debug|x64
+		{6F636880-5AD1-4DA0-AE3D-BD587BF234F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F636880-5AD1-4DA0-AE3D-BD587BF234F0}.Debug|x86.Build.0 = Debug|Win32
+		{6F636880-5AD1-4DA0-AE3D-BD587BF234F0}.Release|x64.ActiveCfg = Release|x64
+		{6F636880-5AD1-4DA0-AE3D-BD587BF234F0}.Release|x64.Build.0 = Release|x64
+		{6F636880-5AD1-4DA0-AE3D-BD587BF234F0}.Release|x86.ActiveCfg = Release|Win32
+		{6F636880-5AD1-4DA0-AE3D-BD587BF234F0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08DF6F4D-CA55-4AFA-BA3C-DCDBD7CF1173}
+	EndGlobalSection
+EndGlobal
