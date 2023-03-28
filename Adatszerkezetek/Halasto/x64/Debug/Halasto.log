@@ -1,0 +1,3 @@
+﻿  Halasto.cpp
+C:\Users\norbi\Desktop\Adatszerkezet\Halasto\Halasto.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Halasto.vcxproj -> C:\Users\norbi\Desktop\Adatszerkezet\Halasto\x64\Debug\Halasto.exe
