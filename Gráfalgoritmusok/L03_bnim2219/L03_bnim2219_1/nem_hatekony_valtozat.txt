@@ -1,0 +1,73 @@
+
+//
+//void Prim(int, int, vector<vector<pair<int, int>>>&);
+//int keres_min_csomopont(vector<pair<int, int>>&, vector<bool>&);
+//pair<int, int> keres_min_el(vector<vector<pair<int, int>>>&, int, vector<bool>&);
+//void frissit_tavolsagok(vector<vector<pair<int, int>>>&, vector<pair<int, int>>&, vector<bool>&, int);
+//void kiir(int, vector<pair<int, int>>&);
+// 
+//void Prim(int csomopontok_szama, int elek_szama, vector<vector<pair<int, int>>>& szomszedsagi_lista) {
+//	vector<pair<int, int>> feszitofa;
+//	int osszeg = 0;
+//	//pair elso eleme a szulo, masodik a suly
+//	vector<pair<int, int>> tavolsag_szulotol(csomopontok_szama + 1, { -1, INT_MAX });
+//	vector<bool> volt(csomopontok_szama + 1, false);
+//
+//	//az 1-es csomopont lesz a gyoker
+//	tavolsag_szulotol[1] = { 0, 0 };
+//	frissit_tavolsagok(szomszedsagi_lista, tavolsag_szulotol, volt, 1);
+//	volt[1] = true;
+//	
+//	for (int i = 0; i < csomopontok_szama - 1; i++) {
+//		int csomopont = keres_min_csomopont(tavolsag_szulotol, volt);
+//		pair<int, int> minimum_el = keres_min_el(szomszedsagi_lista, csomopont, volt);
+//		osszeg += minimum_el.second;
+//		feszitofa.push_back({min(csomopont, minimum_el.first), max(csomopont, minimum_el.first) });
+//		frissit_tavolsagok(szomszedsagi_lista, tavolsag_szulotol, volt, csomopont);
+//		volt[csomopont] = true;
+//	}
+//	kiir(osszeg, feszitofa);
+//}
+//
+////visszateriti azt a csomopontot, amihez a legkisebb sulyu el kapcsolodik
+//int keres_min_csomopont(vector<pair<int, int>>& tavolsag_szulotol, vector<bool>& volt) {
+//	int min_index = 0;
+//	for (int i = 1; i < tavolsag_szulotol.size(); i++) {
+//		if (tavolsag_szulotol[i].second < tavolsag_szulotol[min_index].second && !volt[i]) {
+//			min_index = i;
+//		}
+//	}
+//	return min_index;
+//}
+//
+////visszateriti, hogy melyik a legkisebb sulyu el ami kapcsolodik a fahoz
+//pair<int, int> keres_min_el(vector<vector<pair<int, int>>>& szomszedsagi_lista, int csomopont, vector<bool>& volt) {
+//	pair<int, int> minimum_el = { 0, INT_MAX };
+//	for (int j = 1; j < szomszedsagi_lista[csomopont].size(); j++) {
+//		if (szomszedsagi_lista[csomopont][j].second < minimum_el.second && volt[szomszedsagi_lista[csomopont][j].first]) {
+//			minimum_el = szomszedsagi_lista[csomopont][j];
+//		}
+//	}
+//	return minimum_el;
+//}
+//
+////ha uj csomopont van hozzaadva a fahoz akkor frissiti a hozza kotodo csomopontok sulyait (amelyek meg nincsenek benne a faban)
+//void frissit_tavolsagok(vector<vector<pair<int, int>>>& szomszedsagi_lista, vector<pair<int, int>>& tavolsag_szulotol, vector<bool>& volt, int csomopont) {
+//	for (int i = 1; i < szomszedsagi_lista[csomopont].size(); i++) {
+//		pair<int, int> jelenlegi_csomopont = szomszedsagi_lista[csomopont][i];
+//		if (!volt[jelenlegi_csomopont.first] && jelenlegi_csomopont.second < tavolsag_szulotol[jelenlegi_csomopont.first].second) {
+//			tavolsag_szulotol[jelenlegi_csomopont.first].first = csomopont;
+//			tavolsag_szulotol[jelenlegi_csomopont.first].second = jelenlegi_csomopont.second;
+//		}
+//	}
+//}
+//
+////fileba kiirja a minimalis feszitofa koltseget es az eleket
+//void kiir(int osszeg, vector<pair<int, int>>& feszitofa) {
+//	ofstream fout("graf.out");
+//	fout << osszeg << endl;
+//	for (int i = 0; i < feszitofa.size(); i++) {
+//		fout << feszitofa[i].first << " " << feszitofa[i].second << endl;
+//	}
+//	fout.close();
+//}

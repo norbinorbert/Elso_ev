@@ -1,0 +1,6 @@
+﻿  L03_bnim2219_2.cpp
+C:\Users\norbi\Desktop\Grafok\L03_bnim2219\L03_bnim2219_2\L03_bnim2219_2.cpp(101,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Grafok\L03_bnim2219\L03_bnim2219_2\L03_bnim2219_2.cpp(121,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Grafok\L03_bnim2219\L03_bnim2219_2\L03_bnim2219_2.cpp(144,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\norbi\Desktop\Grafok\L03_bnim2219\L03_bnim2219_2\L03_bnim2219_2.cpp(123): warning C4715: 'max_szamjegy': not all control paths return a value
+  L03_bnim2219_2.vcxproj -> C:\Users\norbi\Desktop\Grafok\L03_bnim2219\L03_bnim2219_2\x64\Debug\L03_bnim2219_2.exe
