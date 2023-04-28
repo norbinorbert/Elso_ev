@@ -1,0 +1,7 @@
+﻿  L04_bnim2219_4.cpp
+C:\Users\norbi\Desktop\Grafok\L04_bnim2219\L04_bnim2219_4\L04_bnim2219_4.cpp(74,43): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  L04_bnim2219_4.vcxproj -> C:\Users\norbi\Desktop\Grafok\L04_bnim2219\L04_bnim2219_4\x64\Debug\L04_bnim2219_4.exe
