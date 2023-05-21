@@ -1,0 +1,3 @@
+﻿  L05_bnim2219_2.cpp
+C:\Users\norbi\Desktop\Grafok\L05_bnim2219\L05_bnim2219_2\L05_bnim2219_2.cpp(77,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  L05_bnim2219_2.vcxproj -> C:\Users\norbi\Desktop\Grafok\L05_bnim2219\L05_bnim2219_2\x64\Debug\L05_bnim2219_2.exe
