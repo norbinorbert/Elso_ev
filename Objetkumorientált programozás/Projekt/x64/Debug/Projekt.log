@@ -1,0 +1,5 @@
+﻿  Rendezes.cpp
+C:\Users\norbi\Desktop\OOP\Projekt\Rendezes.cpp(42,46): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\norbi\Desktop\OOP\Projekt\Rendezes.cpp(64,50): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\norbi\Desktop\OOP\Projekt\Rendezes.cpp(227,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Projekt.vcxproj -> C:\Users\norbi\Desktop\OOP\Projekt\x64\Debug\Projekt.exe

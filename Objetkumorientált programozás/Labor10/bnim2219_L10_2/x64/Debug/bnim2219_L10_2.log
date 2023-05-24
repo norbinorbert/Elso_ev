@@ -1,0 +1,3 @@
+﻿  bnim2219_L10_2.cpp
+C:\Users\norbi\Desktop\OOP\Labor10\bnim2219_L10_2\bnim2219_L10_2.cpp(196,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  bnim2219_L10_2.vcxproj -> C:\Users\norbi\Desktop\OOP\Labor10\bnim2219_L10_2\x64\Debug\bnim2219_L10_2.exe
